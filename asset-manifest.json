@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactwebsite2020/static/css/main.7e799b08.chunk.css",
+    "main.js": "/reactwebsite2020/static/js/main.8904cd98.chunk.js",
+    "main.js.map": "/reactwebsite2020/static/js/main.8904cd98.chunk.js.map",
+    "runtime-main.js": "/reactwebsite2020/static/js/runtime-main.08212353.js",
+    "runtime-main.js.map": "/reactwebsite2020/static/js/runtime-main.08212353.js.map",
+    "static/css/2.07725c36.chunk.css": "/reactwebsite2020/static/css/2.07725c36.chunk.css",
+    "static/js/2.b94014ce.chunk.js": "/reactwebsite2020/static/js/2.b94014ce.chunk.js",
+    "static/js/2.b94014ce.chunk.js.map": "/reactwebsite2020/static/js/2.b94014ce.chunk.js.map",
+    "index.html": "/reactwebsite2020/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/reactwebsite2020/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.7e799b08.chunk.css.map": "/reactwebsite2020/static/css/main.7e799b08.chunk.css.map",
+    "static/js/2.b94014ce.chunk.js.LICENSE.txt": "/reactwebsite2020/static/js/2.b94014ce.chunk.js.LICENSE.txt",
+    "static/media/about.c80846dc.svg": "/reactwebsite2020/static/media/about.c80846dc.svg",
+    "static/media/android.bd51d556.jpg": "/reactwebsite2020/static/media/android.bd51d556.jpg",
+    "static/media/animation.e7fbd2f2.jpg": "/reactwebsite2020/static/media/animation.e7fbd2f2.jpg",
+    "static/media/digitalmarketing.0eac75f4.jpg": "/reactwebsite2020/static/media/digitalmarketing.0eac75f4.jpg",
+    "static/media/homerocket.4715ac4b.svg": "/reactwebsite2020/static/media/homerocket.4715ac4b.svg",
+    "static/media/img1.df6f369e.jpg": "/reactwebsite2020/static/media/img1.df6f369e.jpg",
+    "static/media/software.9a7ff589.jpg": "/reactwebsite2020/static/media/software.9a7ff589.jpg",
+    "static/media/webdesign.dc908b7c.jpg": "/reactwebsite2020/static/media/webdesign.dc908b7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08212353.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.b94014ce.chunk.js",
+    "static/css/main.7e799b08.chunk.css",
+    "static/js/main.8904cd98.chunk.js"
+  ]
+}
